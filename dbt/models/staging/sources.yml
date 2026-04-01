@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: aemo_electricity
+    database: taxi-rides-ny-v2
+    schema: aemo_electricity
+    tables:
+      - name: nem_partitioned
+        description: "AEMO NEM partitioned and clustered electricity data"
