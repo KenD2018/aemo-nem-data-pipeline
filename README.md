@@ -146,11 +146,7 @@ Power BI Desktop → Get Data → Google BigQuery → `aemo_electricity.fact_dai
 
 ## Dashboard
 
-Power BI dashboard with 6 visualisations across 4 data stories:
+Power BI dashboard with 2 visualisations:
 
 1. **Price trend by state (2020–2024)** — 2022 crisis clearly visible
 2. **Demand by state** — NSW1 highest, TAS1 lowest
-3. **COVID-19 lockdown impact** — VIC1 demand drops in Mar/Apr/Oct 2020
-4. **Negative price days** — SA1: 1,368 days (75% of 5-year period)
-5. **Seasonal price anomaly** — May most expensive, not winter
-6. **Price volatility ranking** — QLD1 most volatile, VIC1 most stable
