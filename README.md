@@ -148,5 +148,4 @@ Power BI Desktop → Get Data → Google BigQuery → `aemo_electricity.fact_dai
 
 Power BI dashboard with 2 visualisations:
 
-1. **Price trend by state (2020–2024)** — 2022 crisis clearly visible
-2. **Demand by state** — NSW1 highest, TAS1 lowest
+![Dashboard](final_project_aemo_nem.png)
